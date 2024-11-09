@@ -2,7 +2,7 @@
 ORM Benchmarks (2024 update)
 ==============
 
-**Fork of `Tortoise's orm-benchmark <https://github.com/tortoise/orm-benchmarks>`**
+**Fork of `Tortoise's orm-benchmark <https://github.com/tortoise/orm-benchmarks>`_**
 
 **Qualification criteria is:**
 
