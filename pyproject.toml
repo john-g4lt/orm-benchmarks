@@ -24,7 +24,7 @@ python-rapidjson = "*"
 
 [tool.poetry.dev-dependencies]
 # Testing tools
-vmprof = "*"
+# vmprof = "*"
 py-spy = "*"
 tox = "*"
 flake8 = "*"
